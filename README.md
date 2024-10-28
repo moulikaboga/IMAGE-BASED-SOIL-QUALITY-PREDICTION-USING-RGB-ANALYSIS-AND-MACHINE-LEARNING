@@ -1,0 +1,2 @@
+# IMAGE-BASED-SOIL-QUALITY-PREDICTION-USING-RGB-ANALYSIS-AND-MACHINE-LEARNING
+This project predicts soil pH from RGB values in soil images, offering tailored crop and fertilizer recommendations based on nutrient needs. A Random Forest model estimates pH, which guides crop suitability and suggests fertilizers optimized for nitrogen (N), phosphorus (P), and potassium (K) levels, promoting efficient, data-driven soil management
