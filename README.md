@@ -20,7 +20,7 @@ This project uses machine learning to predict soil quality through pH estimation
 ```
 soil-quality-prediction/
 ├── data/
-│   ├── soilpH_rgb.csv                   # CSV file containing RGB values with pH labels
+│   ├── soilpH_rgb1.csv                   # CSV file containing RGB values with pH labels
 │   ├── Crop_recommendation_edited.csv   # CSV file containing crop recommendations based on pH
 │   └── Fertilizer Prediction.csv        # CSV file containing NPK values of fertilizers
 ├── images/
