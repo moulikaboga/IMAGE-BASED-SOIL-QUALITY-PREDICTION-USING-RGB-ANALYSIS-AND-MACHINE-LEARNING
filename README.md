@@ -20,13 +20,13 @@ This project uses machine learning to predict soil quality through pH estimation
 ```
 soil-quality-prediction/
 ├── data/
-│   ├── soilpH_rgb.csv                  # CSV file containing RGB values with pH labels
+│   ├── soilpH_rgb.csv                   # CSV file containing RGB values with pH labels
 │   ├── Crop_recommendation_edited.csv   # CSV file containing crop recommendations based on pH
 │   └── Fertilizer Prediction.csv        # CSV file containing NPK values of fertilizers
 ├── images/
 │   └── soil-test.webp                   # Example soil image for RGB extraction
 ├── src/
-│   └── soil_quality_prediction.py       # Main script for soil pH prediction and fertilizer recommendation
+│   └── soil_quality_prediction.ipynb    #Jupyter Notebook for soil quality prediction
 ├── README.md                            # Project overview and setup instructions
 ├── requirements.txt                     # List of dependencies
 ├── .gitignore                           # Specifies files to ignore in the repo
