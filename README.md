@@ -29,6 +29,7 @@ soil-quality-prediction/
 │   └── soil_quality_prediction.ipynb    #Jupyter Notebook for soil quality prediction
 ├── README.md                            # Project overview and setup instructions
 ├── requirements.txt                     # List of dependencies
+├── ICACCD.final(1).pdf                  # Research paper published on this research
 ├── .gitignore                           # Specifies files to ignore in the repo
 └── LICENSE                              # License information
 ```
