@@ -36,8 +36,7 @@ soil-quality-prediction/
 ## Setup Instructions
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/soil-quality-prediction.git
-   cd soil-quality-prediction
+   git clone https://github.com/moulikaboga/IMAGE-BASED-SOIL-QUALITY-PREDICTION-USING-RGB-ANALYSIS-AND-MACHINE-LEARNING
    ```
 
 2. **Install dependencies**:
